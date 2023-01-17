@@ -10,12 +10,10 @@ Shortcut(Ctrl+Shift+Esc) <br>
 CPU - Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz <br>
 RAM - 4.0 GB <br>
 Storage - 224 GB <br>
-GPU - Intel(R) HD Graphics 520 <br>
-
+GPU - Intel(R) HD Graphics 520 <br><br>
 2. <b>Setting Up Blog for Daily Diary</b> <br>
 Referred https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html and followed the steps to create a blog environment using the same template.
-<br>
-
+<br><br>
 3. <b>Installing Linux OS</b>
 <br>
 This is due since I need to study properly about the steps and take the backup of the existing files in the Windows OS.

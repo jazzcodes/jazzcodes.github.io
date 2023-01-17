@@ -12,7 +12,7 @@ RAM - 4.0 GB <br>
 Storage - 224 GB <br>
 GPU - Intel(R) HD Graphics 520 <br><br>
 2. <b>Setting Up Blog for Daily Diary</b> <br>
-Referred https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html and followed the steps to create a blog environment using the same template.
+Referred this <a href="https://chadbaldwin.net/2021/03/14/how-to-build-a-sql-blog.html">Blog Template</a> and followed the steps to create a blog environment using the same template.
 <br><br>
 3. <b>Installing Linux OS</b>
 <br>

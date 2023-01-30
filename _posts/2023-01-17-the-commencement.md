@@ -1,7 +1,7 @@
 ## The Commencement of my Journey at Ryaz
 
 <p> I have immense pleasure to share that today is my first official day of industrial training at Ryaz which is a tech organisation helping various people to build their ideal websites and provides solutions to make their dream ventures a success. I came to know about it through one of my classmates who has been contributing in the community for quite a long time. I'm obliged that I got a chance to work here and learn among such a friendly community of developers. </p>
-
+<p> I'm grateful to Nandini, who organised a friendly online meet to make all the trainees familiar with the process and the work culture. </p> 
 <p> My mentor, Mandeep conducted the very first meeting via gmeet after some online interactions. He made me familiar with the work culture and other important know-hows necessary for the smooth functioning of the training process. He then assigned me tasks to be completed by today. Following are the tasks and my solutions:
 </p>
 1. <b>Sharing the Laptop Configuration</b> <br>

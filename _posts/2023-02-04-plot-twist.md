@@ -1,0 +1,3 @@
+## Plot Twist (being less dramatic)
+
+After updating the home page of Cattish and spending half of the day on modifications again, I realized that there is still a void that was being felt since we learnt different topics separately, however, the successful designing of a webpage requires putting all the webD components as a whole. This led to a change in the plan - Part-3 of the course would be pursued first in which a webpage is developed from scratch and all the necessary tips and tricks along with the best practices used are involoved in that particular course. Furthermore, the course demands the learner getting involved while learning that would hopefully prove to be great help!

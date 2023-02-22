@@ -1,6 +1,6 @@
 # Moving On - ChatApp Task
 
-The previous task was a bit tedious and complex. So my mentor suggested to complete a couple of simpler tasks to get a better understanding of the concepts. The next task I chose was the [ChatApp design](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY).
+The previous task was a bit tedious and complex. So my mentor suggested to complete a couple of simpler tasks to get a better understanding of the concepts. I also watched a detailed tutorial on creating layouts using grids. The next task I chose was the [ChatApp design](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY).
 
 I made the following components:
 

@@ -1,6 +1,6 @@
 ### Focused on the Deets
 
-Today, I tried to fix the layout font sizes, spacing, etc by comparing with the design more carefully in order to bring in better accuracy. So, I worked on the follwoing areas -
+Today, I tried to fix the layout font sizes, spacing, etc by comparing with the design more carefully in order to bring in better accuracy. After careful observation, my mentor made me familiar with some issues that still existed with the design. So, I worked on the following areas in order to fix those points -
 
 1. Headings 
 Changed the heading font, split it into 2 paragraphs, did `white-space:nowrap` on the individual paragraphs in order to get that overflow, overlap effect over the image next to the text. Also, changed the font-size of the content associated with the headings. All these changes demanded spacing alterations of button too.

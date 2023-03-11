@@ -17,6 +17,9 @@ Yesterday, I fixed the layout issues. Today, I worked on designing the individua
  
  The main components have been designed. Now I need to work on the collapsible items - the menu on the left in the mobile/ top in the desktop and the search field in the mobile & the desktop. I'll do this on Monday positively.
  
+Code can be found [here](https://github.com/jazzcodes/Apple).
+Site is live [here](https://fluffy-taffy-a8575f.netlify.app/#).
+ 
  Till then byeesss! 
  
  

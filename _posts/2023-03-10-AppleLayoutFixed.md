@@ -9,4 +9,7 @@ Now, everything went well but 100vh wasn't working as expected since the browser
 
 So, I'll try these two and figure out a possible solution asap.
 
+Code can be found [here](https://github.com/jazzcodes/Apple).
+Site is live [here](https://fluffy-taffy-a8575f.netlify.app/#).
+
 Till then byee!

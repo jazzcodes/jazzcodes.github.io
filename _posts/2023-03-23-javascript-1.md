@@ -4,7 +4,7 @@ Yeah, so this one's coming straight outta my heart.
 
 Today, I'm really very happy to begin with JavaScript i.e the next phase of my training. I've always wanted to master the programming aspect and I'm so grateful that I'm pursuing my training here at Ryaz as I'd never thought that I'd be able to learn development seriously owing to a few attempts when I started doing it on my own during lockdown. I'm grateful for the growth, the accountability that I like to learn without saying and the fact that I realise my goals I make for myself is the best feeling. 
 
-So, today I started with JavaScript, I'm learning it whole-heartedly. Currently, my state of mind is to learn each and every aspect of the [guide] (https://javascript.info/) shared by my mentor. 
+So, today I started with JavaScript, I'm learning it whole-heartedly. Currently, my state of mind is to learn each and every aspect of the [guide](https://javascript.info/) shared by my mentor. 
 
 The first day's task was to complete till 2.18 but I could do till 2.10 but I'm completely okay with it coz learning takes time and the point is learning.
 

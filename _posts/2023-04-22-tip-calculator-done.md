@@ -1,4 +1,4 @@
-# If Your Fear Change, Leave it Here :) -> Tip Calculator it is!
+# If Your Fear Change, Leave it Here :) - Tip Calculator it is!
 
 Today, I finally completed the tip calculator task. Adding functionality was a fun as well as a challenging part again. I feel these tasks would lead me somewhere as I feel so satisfied after solving a problem...
 
